@@ -2,7 +2,7 @@
 
 I am an aspiring developer and my areas of interest are scripting especially automating general routines with python or MQL, I also enjoy my fair share of web developing and with JS and I am still working on it. 
 
-![zivernay's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Zivanai's Stats](https://github-readme-stats.vercel.app/api?username=zivernay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
