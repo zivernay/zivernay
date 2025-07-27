@@ -19,10 +19,10 @@ I'd say I am an aspiring full-stack developer with an engineering background and
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, Python, MQL5, HTML, CSS
-- **Tools:** Webpack, Git, Linux CLI, Figma
+- **Tools:** Webpack, Git, Linux CLI, Figma, NPM
 - **Currently learning:** React, Node.js, PostgreSQL, Tailwind CSS
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mql5,webpack,git,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,npm,git,linux,figma,python,solidity)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -30,6 +30,7 @@ I'd say I am an aspiring full-stack developer with an engineering background and
 - Tailwind CSS for modern, responsive UIs
 - Node.js for server-side development
 - PostgreSQL (early stages)
+- Solidity (in the future)
 - Open source contribution (seeking my first opportunity)
 
 ## 📬 Get in Touch
