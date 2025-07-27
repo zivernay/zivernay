@@ -4,11 +4,10 @@ I'm a developer-in-training with a background in engineering. I am interested in
 - automating usually repetitive and tedious processes, especially in niche workflows where such applications do not exist. My journey with code started with simple data analysis and math modeling in Python. Now I test retail trading strategies using MQL5 by automating indicators and various trading strategies through Expert Advisors(EAs), and I am expanding into full stack web development with JavaScript because I would like to develop or work on applications with a full backend end and fontend.
 
 ## 🚀 About Me
+![Zivanai's Stats](https://github-readme-stats.vercel.app/api?username=zivernay&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-I'd say I am an aspiring full-stack developer with an engineering background and a passion for:
-  - automating boring stuff especially repetive workflows or tasks,
-  - analytics like timeseries analysis and data visualization,
-  - as well as just building practical solutions to various problems.
+
+I'd say I am an aspiring full-stack developer with an engineering background and a passion for: automating boring stuff especially repetive workflows or tasks; analytics like timeseries analysis and data visualization; as well as just building practical solutions to various problems.
 
 - 🔭 I am currently learning full stack web development through The Odin Project (JavaScript, Node.js, React).
 - 🛠️ I am proficient in HTML, CSS, JavaScript (including advanced concepts), Python, and MQL5 (MetaQuotes Language for trading automation).
@@ -19,11 +18,11 @@ I'd say I am an aspiring full-stack developer with an engineering background and
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, MQL, HTML, CSS
-- **Tools:** Webpack, Git, Linux CLI
+- **Languages:** JavaScript, Python, MQL5, HTML, CSS
+- **Tools:** Webpack, Git, Linux CLI, Figma
 - **Currently learning:** React, Node.js, PostgreSQL, Tailwind CSS
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mql,webpack,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mql5,webpack,git,linux,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
